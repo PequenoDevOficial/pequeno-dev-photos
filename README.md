@@ -1,2 +1,2 @@
-# pequeno-dev-photos
-This is a photo collection
+# Pequeno Dev Photos
+These are a photo collection
